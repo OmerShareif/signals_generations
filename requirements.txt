@@ -1,0 +1,9 @@
+Requirements
+Python 3.11+
+NumPy
+Matplotlib
+SciPy (for selected examples)
+
+Install dependencies:
+
+pip install numpy matplotlib scipy
