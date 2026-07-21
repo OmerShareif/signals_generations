@@ -39,6 +39,33 @@ This repository is a personal learning project and will continue to grow as new 
 
 ---
 
+### Probability & Random Processes
+
+Module 1 – Probability Foundations
+- Probability
+- Joint probability
+- Statistical independence
+
+Module 2 – Random Variables
+- Definition
+- CDF
+- PDF
+- Relation between probability & density
+- Joint distributions
+
+Module 3 – Statistics of Random Variables
+- Mean
+- Variance
+- Chebyshev’s inequality
+
+Module 4 – Important Distributions
+- Gaussian (Normal)
+- Error function
+- Rayleigh distribution
+- Mean & variance of Gaussian and Rayleigh
+
+---
+
 ## Repository Structure
 
 ```text
@@ -51,6 +78,10 @@ signal_and_system/
 │   └── examples
 │
 └── fourier_transform/
+    ├── ...
+    └── examples
+|
+└── probability_and_noise/
     ├── ...
     └── examples
 ```
@@ -135,4 +166,5 @@ python fft_example.py
 
 ## License
 
-This repository is intended for educational and learning purposes.
+This repository is intended for educational and learning purposes under MIT.
+Copyright (c) 2026 Omer Shareif
