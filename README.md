@@ -80,6 +80,10 @@ signal_and_system/
 └── fourier_transform/
     ├── ...
     └── examples
+|
+└── probability_and_noise/
+    ├── ...
+    └── examples
 ```
 
 ---
