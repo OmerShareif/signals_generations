@@ -166,4 +166,5 @@ python fft_example.py
 
 ## License
 
-This repository is intended for educational and learning purposes.
+This repository is intended for educational and learning purposes under MIT.
+Copyright (c) 2026 Omer Shareif
