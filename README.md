@@ -37,6 +37,8 @@ This repository is a personal learning project and will continue to grow as new 
 * Windowing techniques
 * Spectrograms
 
+---
+
 ### Probability & Random Processes
 
 Module 1 – Probability Foundations
