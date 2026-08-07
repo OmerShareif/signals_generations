@@ -23,6 +23,9 @@ def idft(X):
 # Recover the Signal
 x_rec = idft(X)
 
+error = np.max(np.abs(x - x_rec))
+print("Maximum error = ", error)
+
 # original signal
 plt.figure()
 plt.plot(n,x,'o-',label="original")
